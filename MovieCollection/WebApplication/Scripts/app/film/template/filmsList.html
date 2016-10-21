@@ -1,0 +1,21 @@
+﻿
+<div style="padding-left:20px">
+    <h1>
+        List of Movies
+    </h1>
+
+    <div style="width:60%" ng-repeat="film in Films">
+        <div>
+
+            <a href="#/film/{{film.id}}"> {{film.title}}</a>
+            <span>({{film.releaseDate | date:'dd/MM/yyyy'}})</span>
+            <div style="font:bold;color:darkred" >
+                ***Rating*** : {{film.rating}}
+            </div>
+        </div>
+        <div>
+            {{film.description}}
+        </div>
+        <br />
+    </div>
+</div>

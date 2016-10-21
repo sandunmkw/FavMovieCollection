@@ -1,0 +1,95 @@
+﻿<script type="text/javascript">
+  $( function() {
+      $("#releaseDate").datepicker();
+  } );
+</script>
+
+<div style="padding-left:20px">
+    <h2>
+        {{pageTitle}}
+    </h2>
+    <form name="CreateFilmForm" id="createFilmForm" class="form-horizontal" role="form">
+        <div>
+            <label for="title">Title</label>
+            <div>
+                <input id="title" name="title" type="text" ng-model="film.title">
+            </div>
+        </div>
+        <div>
+            <label for="description">Description</label>
+            <div>
+                <textarea rows="3" id="description" name="description" type="text" ng-model="film.description"></textarea>
+            </div>
+        </div>
+        <div>
+            <label>Directors</label>
+            <div>
+                <select ng-model="film.directorId" ng-options="option.id as option.firstName  + ' ' +  option.lastName for option in Directors"></select>
+            </div>
+        </div>
+        <div>
+            <label>Release Date</label>
+            <div>
+                <input id="releaseDate" type="text" ng-model="film.ReleaseDate">
+            </div>
+        </div>
+        <div>
+            <label>Rating</label>
+            <div>                
+                <input name="rating" type="number" ng-model="film.rating">
+            </div>
+        </div>
+        <div>
+            <label for="inputTitle">Language</label>
+            <div>
+                <select ng-model="film.languageId" ng-options="option.id as option.text for option in Languages"></select>
+            </div>
+        </div>
+        <div style="padding-top:20px">
+            <button type="submit" ng-click="createFilmForm.submit(CreateFilmForm)">Submit</button>
+        </div>
+    </form>
+    <br />
+    <hr style="display: block; border-style: inset;border-width: 1px;">
+
+    <div ng-show="addCharacters===1">
+        <h3>Characters</h3>
+        <table>
+            <tr>
+                <td>Charactor</td>
+                <td> : <input id="inputCharacterName" type="text" ng-model="film.charactors.characterName"></td>
+            </tr>
+            <tr>
+                <td>Actor :</td>
+                <td>
+                    : <input id="inputActor" name="actor" type="text" ng-model="film.charactors.actor">
+                    <button type="button" ng-click="addFilmCharacters();">Add Character</button>
+                </td>
+            </tr>
+        </table>
+
+        <div style="padding-top:20px">
+            <table>
+                <tr>
+                    <th style="width:300px; border:0.5px solid grey">Character</th>
+                    <th style="width:300px; border:0.5px solid grey">Actor</th>
+
+                </tr>
+                <tr ng-repeat="character in film.characterList | orderBy : 'character'">
+
+                    <td style="width:300px; border:0.5px solid grey">{{character.character}}</td>
+                    <td style="width:300px; border:0.5px solid grey">
+                        {{character.actorName}}
+                    </td>
+
+                </tr>
+            </table>
+        </div>
+
+    </div>
+
+    <br />
+    <br />
+    <br />
+
+</div>

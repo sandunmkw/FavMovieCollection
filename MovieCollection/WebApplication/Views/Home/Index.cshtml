@@ -1,0 +1,62 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html ng-app="movieApp">
+<head>
+    <meta charset="utf-8" />
+    <title>.::Movie Collection::.</title>
+    <link href="~/Content/css/jquery-ui.min.css" rel="stylesheet" />
+
+    <style>
+        #wide {
+            float: right;
+            width: calc(100% - 200px);
+            background: lightblue;
+        }
+
+        #narrow {
+            float: left;
+            width: 200px;
+            height: 800px;
+            background: #A2D4EE;
+        }
+
+        #footer {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        #body {
+            background: cadetblue;
+            font-family: Calibri;
+        }
+    </style>
+</head>
+<body id="body">
+    <div>
+        <h1 style="color:white; padding-left:20px">.::My Favourite Movie Collection::.</h1>
+    </div>
+    <div id="parent">
+        <div id="wide">
+            <div ng-view></div>
+        </div>
+        <div id="narrow">
+            <ul>
+                <li style="padding-bottom:10px; color:lightblue;"><a href="#/index" style="text-decoration: none;"> <span>| Movie List |</span></a></li>
+                <li style="padding-bottom:10px; color:lightblue"><a href="#/createFilm" style="text-decoration: none;"><span>| Create a Movie |</span></a></li>
+            </ul>
+        </div>
+    </div>
+    <div id="footer" style="padding: 10px 10px 10px 10px; background-color:paleturquoise; color:#0B4CB0">
+        <div align="center">        Angular Assignment - Sandun Abeywickrama</div>
+
+    </div>
+    @Scripts.Render("~/bundles/favMoiveApp")
+
+    <script src="~/Scripts/framework/ui-bootstrap-tpls.js"></script>
+    <script src="~/Scripts/framework/datetime/datetime-picker.js"></script>
+
+</body>
+</html>

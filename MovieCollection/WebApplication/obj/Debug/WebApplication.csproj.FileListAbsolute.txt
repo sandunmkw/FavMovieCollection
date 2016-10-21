@@ -1,0 +1,560 @@
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\ApplicationInsights.config
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\csc.exe
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\vbc.exe
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\VBCSCompiler.exe
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\WebApplication.dll.config
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\WebApplication.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\WebApplication.pdb
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Antlr3.Runtime.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\EntityFramework.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\EntityFramework.SqlServer.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AI.Web.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.ApplicationInsights.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Newtonsoft.Json.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Helpers.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Mvc.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Optimization.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Razor.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.WebPages.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.WebPages.Razor.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\WebGrease.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AI.Web.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.ApplicationInsights.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Helpers.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Mvc.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Optimization.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Razor.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.WebPages.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.WebPages.Razor.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Antlr3.Runtime.pdb
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Newtonsoft.Json.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\EntityFramework.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\EntityFramework.SqlServer.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\obj\Debug\WebApplication.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\obj\Debug\WebApplication.pdb
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\System.Net.Http.Formatting.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Http.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Http.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Core.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\Core.pdb
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Http.WebHost.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\System.Net.Http.Formatting.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Http.WebHost.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\ApplicationInsights.config
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\csc.exe
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\vbc.exe
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\VBCSCompiler.exe
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\WebApplication.dll.config
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\WebApplication.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\WebApplication.pdb
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Antlr3.Runtime.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Core.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\EntityFramework.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\EntityFramework.SqlServer.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AI.Web.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.ApplicationInsights.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.Practices.ServiceLocation.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Newtonsoft.Json.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\System.Net.Http.Formatting.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Helpers.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Http.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Http.WebHost.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Mvc.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Optimization.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Razor.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.WebPages.Deployment.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.WebPages.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.WebPages.Razor.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\WebGrease.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Core.pdb
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AI.Web.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.ApplicationInsights.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.Practices.ServiceLocation.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\System.Net.Http.Formatting.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Http.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Http.WebHost.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Helpers.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Mvc.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Optimization.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.Razor.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.WebPages.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.WebPages.Deployment.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\System.Web.WebPages.Razor.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Antlr3.Runtime.pdb
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Newtonsoft.Json.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\EntityFramework.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\EntityFramework.SqlServer.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\obj\Debug\WebApplication.dll
+D:\MyProjects\Industry\Exile\AngularAssigment\Assigment\Application\MovieLibrary\WebApplication\obj\Debug\WebApplication.pdb
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\ApplicationInsights.config
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\csc.exe
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\vbc.exe
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\VBCSCompiler.exe
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\WebApplication.dll.config
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\WebApplication.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\WebApplication.pdb
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Antlr3.Runtime.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Core.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\EntityFramework.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\EntityFramework.SqlServer.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.DependencyCollector.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.Web.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.WindowsServer.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.ApplicationInsights.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.ServiceLocation.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.Configuration.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Newtonsoft.Json.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\System.Net.Http.Formatting.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Helpers.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Http.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Http.WebHost.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Mvc.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Optimization.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Razor.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.Deployment.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.Razor.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\WebGrease.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Core.pdb
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.DependencyCollector.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.Web.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.WindowsServer.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.ApplicationInsights.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.ServiceLocation.pdb
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.ServiceLocation.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.Configuration.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\System.Net.Http.Formatting.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Http.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Http.WebHost.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Helpers.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Mvc.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Optimization.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Razor.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.Deployment.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.Razor.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Antlr3.Runtime.pdb
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Newtonsoft.Json.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\EntityFramework.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\EntityFramework.SqlServer.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\obj\Debug\WebApplication.dll
+F:\Indunil\My Samples\Personal\Office\Backup\MovieLibrary\MovieLibrary\WebApplication\obj\Debug\WebApplication.pdb
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\ApplicationInsights.config
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\csc.exe
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\vbc.exe
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\VBCSCompiler.exe
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\WebApplication.dll.config
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\WebApplication.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\WebApplication.pdb
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Antlr3.Runtime.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Core.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\EntityFramework.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\EntityFramework.SqlServer.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.Web.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.ApplicationInsights.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Newtonsoft.Json.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Net.Http.Formatting.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Helpers.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Http.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Http.WebHost.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Mvc.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Optimization.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Razor.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.Razor.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\WebGrease.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Core.pdb
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.Web.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.ApplicationInsights.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Net.Http.Formatting.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Http.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Http.WebHost.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Helpers.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Mvc.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Optimization.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Razor.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.Razor.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Antlr3.Runtime.pdb
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Newtonsoft.Json.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\EntityFramework.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\EntityFramework.SqlServer.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\obj\Debug\WebApplication.dll
+D:\Work\AngularTraining\Training_1\Assigment\Application\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\ApplicationInsights.config
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\csc.exe
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\vbc.exe
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\WebApplication.dll.config
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\WebApplication.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\WebApplication.pdb
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Antlr3.Runtime.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Core.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\EntityFramework.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.Web.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Newtonsoft.Json.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Helpers.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Http.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Mvc.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Optimization.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Razor.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\WebGrease.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Core.pdb
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.Web.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Http.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Helpers.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Mvc.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Optimization.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Razor.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Antlr3.Runtime.pdb
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Newtonsoft.Json.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\EntityFramework.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\sbe\Desktop\Ver 2.0\MovieLibrary\MovieLibrary\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\ApplicationInsights.config
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\csc.exe
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\vbc.exe
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\WebApplication.dll.config
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\WebApplication.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\WebApplication.pdb
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Antlr3.Runtime.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Core.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\EntityFramework.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.Web.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Newtonsoft.Json.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Helpers.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Http.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Mvc.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Optimization.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Razor.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\WebGrease.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Core.pdb
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.Web.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Http.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Helpers.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Mvc.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Optimization.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.Razor.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Antlr3.Runtime.pdb
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Newtonsoft.Json.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\EntityFramework.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\sbe\Desktop\my\MovieLibrary\MovieLibrary\WebApplication\obj\Debug\WebApplication.pdb
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\ApplicationInsights.config
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\roslyn\csc.exe
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\roslyn\vbc.exe
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\roslyn\VBCSCompiler.exe
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\WebApplication.dll.config
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\WebApplication.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\WebApplication.pdb
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Antlr3.Runtime.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Core.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\EntityFramework.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\EntityFramework.SqlServer.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.AI.Web.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.Practices.ServiceLocation.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.Practices.Unity.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Newtonsoft.Json.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\System.Net.Http.Formatting.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\System.Web.Helpers.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\System.Web.Http.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\System.Web.Http.WebHost.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\System.Web.Mvc.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\System.Web.Optimization.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\System.Web.Razor.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\System.Web.WebPages.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\System.Web.WebPages.Razor.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\WebGrease.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Core.pdb
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.AI.Web.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.AI.WindowsServer.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.ApplicationInsights.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.Practices.ServiceLocation.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.Practices.Unity.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\System.Net.Http.Formatting.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\System.Web.Http.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\System.Web.Http.WebHost.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\System.Web.Helpers.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\System.Web.Mvc.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\System.Web.Optimization.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\System.Web.Razor.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\System.Web.WebPages.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\System.Web.WebPages.Razor.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Antlr3.Runtime.pdb
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Newtonsoft.Json.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\EntityFramework.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\EntityFramework.SqlServer.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\obj\Debug\WebApplication.dll
+E:\Projects\FavMovieCollection\MovieCollection\WebApplication\obj\Debug\WebApplication.pdb

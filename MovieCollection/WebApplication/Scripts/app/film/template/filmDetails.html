@@ -1,0 +1,39 @@
+﻿
+<div style="padding:20px 20px 20px 20px">
+    <div style="font-size:32px; padding-bottom:10px; color:darkred"><strong> {{film.title}}</strong> </div>
+
+    <div style="font:bold;color:maroon">
+       | Rating {{film.rating}} |
+    </div>
+
+    <p>
+        {{film.description}}
+    </p>
+
+    <strong> Director</strong>
+    <p>{{film.director}}</p>
+
+    <strong> Relesed Date</strong>
+    <p>{{film.releaseDate | date:'dd/MM/yyyy'}}</p>
+    
+    <strong> Language</strong>
+    <p class="text-muted">{{film.language}}</p>
+
+    <hr>
+    <div style="font-size:20px; padding-bottom:10px"><strong>Characters</strong> </div>
+    <table>
+        <tr>
+            <td style="width:200px; border:0.5px solid grey; padding:5px 5px 5px 5px; background-color:darkcyan">Character</td>
+            <td style="width:200px; border:0.5px solid grey; padding:5px 5px 5px 5px; background-color:darkcyan">Actor</td>
+        </tr>
+        <tr ng-repeat="character in film.characterList | orderBy : 'character' ">
+
+            <td style="width:200px; border:0.5px solid grey; padding:5px 5px 5px 5px">{{character.character}}</td>
+            <td style="width:200px; border:0.5px solid grey; padding:5px 5px 5px 5px">
+                {{character.actorName}}
+            </td>
+
+        </tr>
+    </table>
+</div>
+
